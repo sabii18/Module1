@@ -1,4 +1,4 @@
-<img width="573" height="307" alt="image" src="https://github.com/user-attachments/assets/f31c7712-4855-4a66-a40c-e3d9e4e7bad1" /># Conditional Statements in Python: Even or Odd Checker
+Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
